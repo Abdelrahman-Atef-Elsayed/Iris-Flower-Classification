@@ -1,4 +1,4 @@
-# 🌸 ML Project: Iris Flower Classification
+# 🌸 Iris Flower Classification
 
 A simple machine learning project to classify Iris flowers using the **Decision Tree** algorithm from `scikit-learn`.
 
